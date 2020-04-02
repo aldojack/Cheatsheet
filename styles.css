@@ -1,0 +1,45 @@
+html, body{
+    background-image: url(wallpaper.jpg); 
+    font-family: monospace;
+    /* padding-left: 2%;
+    padding-right: 2%; */
+    margin-left: 2%;
+    margin-right: 2%;
+}
+h2
+{
+    color: cornflowerblue;
+}
+
+
+table th, table td
+{
+    border: solid 1px;
+    border-collapse: collapse;
+}
+
+table thead
+{
+    background-color: cornflowerblue;
+}
+
+a
+{
+    font-weight: bold;
+    color: black;}
+
+#header
+{
+    width: 100%;
+}
+
+#header h1, h4{
+    background-color: cornflowerblue;
+    color: black;
+    font-weight: bold;
+}
+
+#header h4
+{
+    width: fit-content;
+}
